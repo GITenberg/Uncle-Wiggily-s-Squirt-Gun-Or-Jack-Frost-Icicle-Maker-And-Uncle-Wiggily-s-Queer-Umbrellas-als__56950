@@ -1,0 +1,39 @@
+_repo: Uncle-Wiggily-s-Squirt-Gun-Or-Jack-Frost-Icicle-Maker-And-Uncle-Wiggily-s-Queer-Umbrellas-als__56950
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Campbell, Lang
+    alias: Campbell, Lansing
+    birthdate: 1882
+    deathdate: 1937
+    gutenberg_agent_id: '44668'
+    url: http://www.gutenberg.org/2009/agents/44668
+creator:
+  author:
+    agent_name: Garis, Howard Roger
+    aliases:
+    - Garis, Howard R.
+    - Davidson, Marion
+    birthdate: 1873
+    deathdate: 1962
+    gutenberg_agent_id: '808'
+    url: http://www.gutenberg.org/2009/agents/808
+    wikipedia: http://en.wikipedia.org/wiki/Howard_R._Garis
+description: ''
+gutenberg_issued: '2018-04-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56950'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Uncle Wiggily (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcsh 'Children''s stories'
+- !lcc 'PZ'
+- GITenberg
+title: "Uncle Wiggily's Squirt Gun; Or, Jack Frost Icicle Maker\r\nAnd, Uncle Wiggily's\
+  \ Queer Umbrellas, also, Uncle Wiggily's Lemonade Stand"
+url: http://www.gutenberg.org/ebooks/56950
